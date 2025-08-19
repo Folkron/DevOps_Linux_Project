@@ -1,0 +1,4 @@
+awk: cmd. line:4:         log = 0 
+awk: cmd. line:4:             ^ syntax error
+awk: cmd. line:4:         log = 0 
+awk: cmd. line:4:             ^ syntax error
